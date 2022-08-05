@@ -27,6 +27,7 @@ nav-items {
 
 /* section1 */
 .section1 {
+    /* width: 1360px; */
     display: flex;
     justify-content: space-between;
     
@@ -65,4 +66,46 @@ nav-items {
 .blue-box:hover {
     cursor: pointer;
     background-color: #807CEE;
+}
+/* right block */
+.right-block {
+    margin-right: 35px;
+}
+
+.meeting {
+    width: 20px;
+}
+
+/* second section */
+
+
+/* title div */
+
+.section2 {
+    /* width: 1350px; */
+    margin-top: 90px;
+}
+.section-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title1 {
+    size: 20px;
+    color: #3D37F1;
+    margin-bottom: 17px;
+}
+.title2 {
+    size: 40px;
+    color: #5A5454;
+    margin-bottom: 20px;
+}
+.title-text {
+    font-size: 18px;
+    color: #747474;
+    width: 700px;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 67px;
 }
