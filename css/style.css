@@ -27,9 +27,10 @@ nav-items {
 
 /* section1 */
 .section1 {
-    /* width: 1360px; */
+    width: 1190px;
     display: flex;
     justify-content: space-between;
+    margin:0 auto;
     
 }
 /* left block */
@@ -82,14 +83,15 @@ nav-items {
 /* title div */
 
 .section2 {
-    /* width: 1350px; */
-    margin-top: 90px;
+    width: 1190px;
+    margin:0 auto;
 }
 .section-title {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 72px;
 }
 .title1 {
     size: 20px;
@@ -109,3 +111,103 @@ nav-items {
     line-height: 30px;
     margin-bottom: 67px;
 }
+
+/* first block */
+.first-block {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 62px;
+}
+.block1 {
+    width: 300px;
+    height: 390px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FBBA77;
+}
+.block1-title {
+    size: 22;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 50px;
+}
+.block1-text {
+    width: 310px;
+    margin-top: 12px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.little-box {
+    width: 120px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 23px; 
+    margin-top: 11px;
+    background-color:#F3AF69;
+}
+.little-box:hover {
+    cursor: pointer;
+    background-color: #FFFFFF;
+}
+
+/* second block */
+
+.block2 {
+    width: 300px;
+    height: 390px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 29px; */
+    background-color: #41EAE3;
+}
+.little-box2 {
+    width: 120px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 23px; 
+    margin-top: 11px;
+    background-color: #1897BB;
+
+}
+.little-box2:hover {
+    cursor: pointer;
+    background-color: #FFFFFF;
+}
+
+/* third block */
+.block3 {
+    width: 300px;
+    height: 390px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #69529F;
+}
+.little-box3 {
+    width: 120px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 23px; 
+    margin-top: 11px;
+    background-color: #391788;
+}
+.little-box3:hover {
+    cursor: pointer;
+    background-color: #FFFFFF;
+}
+
+
+
+
+
