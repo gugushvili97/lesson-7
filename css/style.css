@@ -207,6 +207,88 @@ nav-items {
     background-color: #FFFFFF;
 }
 
+/* second big section */
+.second-block {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    margin-bottom: 130px;
+}
+/* block 1 */
+.block-1 {
+    width: 300px;
+    height: 390px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #4386D2;
+}
+.littlebox-1 {
+    width: 120px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 23px; 
+    margin-top: 11px;
+    background-color: #225185;
+}
+.littlebox-1:hover {
+    cursor: pointer;
+    background-color: #FFFFFF;
+}
+
+/* block-2 */
+.block-2 {
+    width: 300px;
+    height: 390px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #A5A2F6;
+}
+.littlebox-2 {
+    width: 120px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 23px; 
+    margin-top: 11px;
+    background-color: #5C57D5;
+}
+.littlebox-2:hover {
+    cursor: pointer;
+    background-color: #FFFFFF;
+}
+/* block-3 */
+.block-3 {
+    width: 300px;
+    height: 390px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF8088;
+}
+.littlebox-3 {
+    width: 120px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 23px; 
+    margin-top: 11px;
+    background-color: #BB5258;
+
+}
+.littlebox-3:hover {
+    cursor: pointer;
+    background-color: #FFFFFF;  
+}
+
 
 
 
