@@ -1,3 +1,5 @@
+/* header */
+
 .header-div {
     display: flex;
     justify-content: space-between;
@@ -10,20 +12,28 @@
     margin-top: 10px;
     margin-right: 30px;
     
-   
 }
 .ul {
     width: 420px;
     display: flex;
-    justify-content: space-between;
-    
-    
-    
+    justify-content: space-between;         
     
 }
 nav-items {
     font-size: 20px;
     font-weight: bold;
-    color: #3D37F1;
-   
+    color: #3D37F1;  
+}
+
+/* section1 */
+.section1 {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.left-block {
+    margin: 132px;
+}
+.first-title {
+    margin-bottom: 30px;
 }
