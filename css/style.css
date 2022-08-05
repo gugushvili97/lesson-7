@@ -22,7 +22,9 @@
 nav-items {
     font-size: 20px;
     font-weight: bold;
-    color: #3D37F1;  
+    color: #3D37F1;
+    font-family: 'Lato', sans-serif;
+
 }
 
 /* section1 */
@@ -43,10 +45,14 @@ nav-items {
     font-size: 40px;
     width: 350px;
     margin-top: 157px;
+    font-family: 'Lato', sans-serif;
+
 }
 .first-text {
     font-size: 12px;
     width: 352px;
+    font-family: 'Lato', sans-serif;
+
 }
 .blue-box {
     display: flex;
@@ -63,6 +69,8 @@ nav-items {
 .bluebox-text {
     size: 7px;
     color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+
 }
 .blue-box:hover {
     cursor: pointer;
@@ -92,16 +100,22 @@ nav-items {
     justify-content: center;
     align-items: center;
     margin-top: 72px;
+    font-family: 'Lato', sans-serif;
+
 }
 .title1 {
     size: 20px;
     color: #3D37F1;
     margin-bottom: 17px;
+    font-family: 'Lato', sans-serif;
+
 }
 .title2 {
     size: 40px;
     color: #5A5454;
     margin-bottom: 20px;
+    font-family: 'Lato', sans-serif;
+
 }
 .title-text {
     font-size: 18px;
@@ -110,6 +124,8 @@ nav-items {
     text-align: center;
     line-height: 30px;
     margin-bottom: 67px;
+    font-family: 'Lato', sans-serif;
+
 }
 
 /* first block */
@@ -132,12 +148,16 @@ nav-items {
     color: #FFFFFF;
     text-align: center;
     margin-top: 50px;
+    font-family: 'Lato', sans-serif;
+
 }
 .block1-text {
-    width: 310px;
+    width: 300px;
     margin-top: 12px;
     text-align: center;
     color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+
 }
 .little-box {
     width: 120px;
