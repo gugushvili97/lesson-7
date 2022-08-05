@@ -31,9 +31,38 @@ nav-items {
     justify-content: space-between;
     
 }
+/* left block */
 .left-block {
-    margin: 132px;
+    margin-left: 35px;
+    
 }
 .first-title {
     margin-bottom: 30px;
+    font-size: 40px;
+    width: 350px;
+    margin-top: 157px;
+}
+.first-text {
+    font-size: 12px;
+    width: 352px;
+}
+.blue-box {
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    background-color: #3D37F1;
+    width: 110px;
+    margin: 47px;
+}
+.hand {
+    margin-left: 2px;
+    margin-right: 4px;
+}
+.bluebox-text {
+    size: 7px;
+    color: #FFFFFF;
+}
+.blue-box:hover {
+    cursor: pointer;
+    background-color: #807CEE;
 }
